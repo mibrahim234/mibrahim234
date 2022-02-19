@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Mohammad.  I'm a full-stack web developer from Brooklyn, NY.
+# Hi! 👋 My name is Mohammad. <br> I'm a full-stack web developer from Brooklyn, NY.
 
 ![Banner](imgs/skyline.png)
 
@@ -27,6 +27,5 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-white?style=flat&logo=wordpress&logoColor=21759b)
 
 ## Get In Touch
-[Portfolio](https://inescandon.vercel.app/) &nbsp;&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/iescandon/) &nbsp;&nbsp;&nbsp;
-[Instagram](https://www.instagram.com/inescandon/)
+[Portfolio](https://github.com/mibrahim234/PortfolioReact2022) &nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/mohammad-ibrahim1/) &nbsp;&nbsp;&nbsp;
